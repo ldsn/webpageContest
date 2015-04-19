@@ -1,0 +1,6 @@
+{
+    "src":          "/data/htdocs/ldsn/uploads",
+    "dest":         "qiniu:access_key=W_Lf3TuOZiPuA1FCtCbFEx6AGKZQBV5Sk_yaHyt8&secret_key=qlyHVubJ9rK7UKjyDsk8Z_YDIJSw3YgmgKC8MzY2&bucket=ldsn&key_prefix=uploads/&threshold=5000",
+    "deletable":    0,
+    "debug_level":  1
+}
